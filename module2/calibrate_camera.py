@@ -1,13 +1,14 @@
 """
-Camera Calibration Script - Step 1 (Fixed Version)
-Key corrections marked with # FIXED:
+module2/calibrate_camera.py
+Step1 : Perform the camera calibration using built-in tools in OpenCV
+using multiple images of a checkerboard pattern.
 """
 
-import cv2
-import numpy as np
-import glob
-import os
-from pathlib import Path
+import cv2 # OpenCV for computer vision tasks
+import numpy as np # NumPy for numerical operations
+import glob # For file pattern matching
+import os # For operating system dependent functionality
+from pathlib import Path # For easier path manipulations
 
 
 def calibrate_camera(image_dir, visualize=False):
