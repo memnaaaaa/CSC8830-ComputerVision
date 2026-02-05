@@ -4,7 +4,8 @@ This repository contains homework solutions and implementations for the Computer
 
 ## Contents
 
-- `module2/`: Solutions and implementations for Module 2.
+- `module2/`: Contains implementations and exercises related to basic image processing techniques.
+- `module3/`: Shows spatial convolution ≡ Frequency multiplication.
 
 ## License
 
