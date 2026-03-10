@@ -1,4 +1,5 @@
 """
+module6/motion_tracking_validation.py
 Part B: Motion Tracking from Fundamentals + Bilinear Interpolation
 Derives tracking equations and validates with actual pixel locations.
 """
