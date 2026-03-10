@@ -112,7 +112,7 @@ def bilinear_interpolate(image, x, y):
     return I
 
 
-def track_point_lucas_kanade(frame1, frame2, point, window_size=15):
+def track_point_lucas_kanade(frame1, frame2, point, window_size=50):
     """
     Track a single point from frame1 to frame2 using Lucas-Kanade.
     
