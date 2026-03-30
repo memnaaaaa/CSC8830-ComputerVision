@@ -43,3 +43,7 @@ ENV/
 # Test files
 module2/test.py
 week5-inClassHackathon/blink_detector.py
+
+# Week 8 inClass Assignment-specific
+week8-inClassAssignment/yolov8s.pt
+week8-inClassAssignment/yolov8n.pt
