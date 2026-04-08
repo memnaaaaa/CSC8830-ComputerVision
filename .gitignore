@@ -47,3 +47,14 @@ week5-inClassHackathon/blink_detector.py
 # Week 8 inClass Assignment-specific
 week8-inClassAssignment/yolov8s.pt
 week8-inClassAssignment/yolov8n.pt
+
+# final-inClassAssignment-specific
+README_dry_run.txt
+report.aux
+report.log
+report.out
+report.pdf
+report.tex
+report.md
+final-inClassAssignment/tests/
+report_template.tex

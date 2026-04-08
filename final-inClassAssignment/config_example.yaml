@@ -1,0 +1,11 @@
+# Example values for running stereo_pipeline.py
+left_image: "data/left.jpg"
+right_image: "data/right.jpg"
+intrinsics_file: "camera_params.npz"  # contains K or camera_matrix
+baseline_m: 0.12
+object_left_xy: [730.0, 410.0]
+object_right_xy: [694.0, 412.0]
+ground_truth_m: 1.65
+setup_image: "data/setup_photo.jpg"
+output_dir: "final-inClassAssignment/results"
+
